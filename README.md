@@ -1,2 +1,2 @@
 # Labs
-Repo for Comp Arch 1 labs.
+Repo for Comp Arch 1 lab2.
